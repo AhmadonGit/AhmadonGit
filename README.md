@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I’m Ahmad Salim  
 
-<!--
-**AhmadonGit/AhmadonGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Computational Mathematics Student | Aspiring Data Analyst | Web Development Learner**  
 
-Here are some ideas to get you started:
+I’m passionate about technology, problem-solving, and continuous learning. Currently, I’m building a strong foundation in **HTML, CSS, and Python**, while also exploring **data analysis** and **computational mathematics applications**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I’m Working On
+- 🌱 Learning **CSS & JavaScript** for web development  
+- 📊 Exploring **Python for data analysis**  
+- 🔬 Studying **mathematics + computer science** connections  
+- 📝 Sharing projects as I learn  
+
+---
+
+### 🛠️ Tech Stack (Beginner Level)
+- **Languages:** Python, JavaScript (beginner), HTML, CSS  
+- **Tools:** Git, VS Code, Jupyter Notebook  
+- **Other Interests:** Data visualization, problem-solving, and open-source  
+
+---
+
+### 📚 Goals for 2025
+- ✅ Build and share at least **5 beginner projects**  
+- ✅ Grow my GitHub activity history (commit regularly)  
+- ✅ Apply my programming skills to **mathematics problems**  
+- ✅ Contribute to **open-source projects**  
+
+---
+
+### 🌍 Let’s Connect
+- 📧 Email: *[your email here]*  
+- 💼 LinkedIn: *[your LinkedIn link]*  
+
+---
+
+✨ *“And He has taught man that which he knew not.”* (Qur’an 96:5)  
